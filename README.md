@@ -26,4 +26,4 @@ Kami menyambut kontribusi dari semua orang. Untuk berkontribusi, ikuti langkah-l
 Dibawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
 
 ---
-Dibuat oleh [Nama Anda](https://github.com/AutoFtBot)
+Dibuat oleh [AUTOFTBOT](https://github.com/AutoFtBot)
