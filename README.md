@@ -1,6 +1,6 @@
 # NIK Info Checker
 
-![NIK Info Checker](https://your-image-url.com/your-image.png)
+![NIK Info Checker](ktp.PNG)
 
 ## Deskripsi
 Proyek ini adalah aplikasi sederhana yang memanfaatkan API RapidAPI untuk memeriksa informasi Nomor Induk Kependudukan (NIK) di Indonesia. Aplikasi ini ditulis dalam bahasa Python dan memungkinkan pengguna untuk memasukkan NIK yang ingin diperiksa untuk mendapatkan informasi terkait NIK tersebut.
